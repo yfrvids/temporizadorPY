@@ -1,0 +1,2 @@
+En linux: `pyinstaller --onefile --windowed --add-data "finish.mp3:." --name "Temporizador" main.py`
+En windows: `pyinstaller --onefile --windowed --add-data "finish.mp3;." --name "Temporizador" main.py`
